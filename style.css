@@ -1,0 +1,27 @@
+body {
+  background: #222;
+  color: #fff;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.container {
+  background: #333;
+  padding: 2em;
+  border-radius: 10px;
+  text-align: center;
+}
+button {
+  padding: 1em 2em;
+  font-size: 1.2em;
+  background: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  background: #388e3c;
+}
